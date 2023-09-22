@@ -1,0 +1,44 @@
+.color-box {
+    width: 30px;
+    /* Set the width of the color box */
+    height: 30px;
+    /* Set the height of the color box */
+    margin-right: 10px;
+    /* Add some spacing between boxes */
+    display: inline-block;
+    /* Make boxes appear in a row */
+    border: 1px solid #000;
+    /* Add a border to the color box */
+
+}
+
+/* Define different background colors for each box */
+.red-box {
+    background-color: rgba(255, 0, 0, 0.515);
+
+}
+
+
+.green-box {
+    background-color: rgb(101, 171, 101);
+
+}
+
+.grey-box {
+    background-color: rgb(131, 130, 130);
+
+}
+
+.status-text {
+    vertical-align: middle;
+}
+.indicators{
+   margin-left: 10px;
+   margin-top: 20px;
+}
+.approve{
+    background-color: rgb(101, 171, 101);
+}
+.reject{
+    background-color: rgba(255, 0, 0, 0.515);
+}

@@ -1,0 +1,28 @@
+#formLink {
+    color: grey;
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn {
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.error {
+    color: red;
+}
+
+.submit-container{
+    margin-bottom: 20px;
+    padding: 5px;
+    content: rgb(0, 0, 1);
+    background-color: black;
+    color: white;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
